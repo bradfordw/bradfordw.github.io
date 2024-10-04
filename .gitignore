@@ -1,0 +1,41 @@
+# Hugo generated content
+/public/
+/resources/_gen/
+/assets/js/
+/assets/css/
+
+# Hugo cache
+hugo_stats.json
+
+# Temporary files
+*.DS_Store
+Thumbs.db
+.DS_Store
+*.log
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS-specific files
+*.swp
+*~
+
+# Node modules (if you are using npm or yarn in your site)
+node_modules/
+
+# Git submodules (if using a theme as a submodule)
+themes/*
+
+# .env files (if you have any environment variables)
+.env
+
+# Backup files (such as the ones created by editors)
+*~
+
+# Ignore Hugo build output for Netlify or other services
+/netlify.toml
+
+# Ignore hugo server logs
+/localhost.log
