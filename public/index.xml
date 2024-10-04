@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diary of a Brad-man...</title>
+    <link>https://bradfordw.github.io/</link>
+    <description>Recent content on Diary of a Brad-man...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2024 18:48:29 -0400</lastBuildDate>
+    <atom:link href="https://bradfordw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First in a while</title>
+      <link>https://bradfordw.github.io/posts/first/</link>
+      <pubDate>Thu, 03 Oct 2024 18:48:29 -0400</pubDate>
+      <guid>https://bradfordw.github.io/posts/first/</guid>
+      <description>Setting Expectations It&amp;rsquo;s been nearly fifteen years since I last published anything that someone outside of my local team might read. Sure, some periodic clever Insta-posts, or LinkedIn re-shares with thoughts, but nothing I can claim for my own, and certainly nothing which I can disable commentary from the beloved public.&#xA;What you&amp;rsquo;ll begin to see roll out over the next few days are things I&amp;rsquo;ve had on my mind that I think are interesting/fun concepts, and mixed in along the way I&amp;rsquo;ll also pull back the curtain a bit on my hobbies and how I think/approach them: most notably fly fishing, and to a lesser extent ice hockey&amp;hellip;and who knows, if it gets/stays cold enough this winter - ice fishing!</description>
+    </item>
+  </channel>
+</rss>
