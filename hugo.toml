@@ -1,0 +1,8 @@
+baseURL = 'https://bradfordw.github.io/'
+languageCode = 'en-us'
+title = 'Diary of a Brad-man...'
+theme = "paper"
+
+[params]
+  monoDarkIcon = true
+  comments = false
